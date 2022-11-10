@@ -1,0 +1,14 @@
+{
+  "name": "examen",
+  "version": "0.0.1",
+  "description": "Examen primer parcial PrograIV",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Examen"
+  ],
+  "author": "Daniel Morales",
+  "license": "ISC"
+}
